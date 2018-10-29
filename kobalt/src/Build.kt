@@ -2,6 +2,7 @@ import com.beust.kobalt.*
 import com.beust.kobalt.plugin.packaging.*
 import com.beust.kobalt.plugin.application.*
 import com.beust.kobalt.plugin.kotlin.*
+import sun.tools.jar.resources.jar
 
 val p = project {
     name = "kotlin_rxexplorer"
