@@ -56,3 +56,4 @@ fabric.properties
 .idea/httpRequests
 
 kobaltBuild
+kobalt/*.iml
